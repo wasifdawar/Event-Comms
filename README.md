@@ -21,4 +21,6 @@ Use LMS for communication between unrelated components unless you control both c
 
 - [Salesforce Trailhead Module Link](https://trailhead.salesforce.com/content/learn/projects/communicate-between-lightning-web-components?trailmix_creator_id=journeytosalesforce&trailmix_slug=all-about-lwc)
 
-- [Wasif Dawar Trailhead Profile Link]https://www.salesforce.com/trailblazer/wasifdawar16)
+##TrailHead Profile Link
+
+- [Wasif Dawar Trailhead Profile Link](https://www.salesforce.com/trailblazer/wasifdawar16)
