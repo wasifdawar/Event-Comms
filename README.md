@@ -17,10 +17,10 @@ To enable communication from a parent component to a child component, the child 
 
 To communicate across the subtrees in the DOM (and under some circumstances between different browser windows logged into the same org), use Lightning message service (LMS). LMS is a publish and subscribe service that facilitates communication between Lightning web components, Aura components, and Visualforce pages.  
 
-Use LMS for communication between unrelated components unless you control both components and a common parent. LMS is powerful, effective, and easy to use, but don’t let that tempt you to use it when it’s not necessary. Firing DOM events is much more efficient. When you need to communicate between components with a parent that you can’t control, such as two App Builder slots, Lightning message service is the perfect choice.
+Use LMS for communication between unrelated components unless you control both components and a common parent. LMS is powerful, effective, and easy to use, but don’t let that tempt you to use it when it’s not necessary. Firing DOM events is much more efficient. When you need to communicate between components with a parent that you can not control, such as two App Builder slots, Lightning message service is the perfect choice.
 
 - [Salesforce Trailhead Module Link](https://trailhead.salesforce.com/content/learn/projects/communicate-between-lightning-web-components?trailmix_creator_id=journeytosalesforce&trailmix_slug=all-about-lwc)
 
-##TrailHead Profile Link
+## TrailHead Profile Link
 
 - [Wasif Dawar Trailhead Profile Link](https://www.salesforce.com/trailblazer/wasifdawar16)
